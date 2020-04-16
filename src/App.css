@@ -47,12 +47,12 @@ table {
 	border-spacing: 0;
 }
 
-header {
+/* header {
   width: 100%;
   min-height: 20vh;
   background-color: #57A773;
   display: flex;
-}
+} */
 
 header div {
   margin: 0 auto;
@@ -126,7 +126,7 @@ h1,h2,h3,h4,h5,p,section,img {
 }
 
 .left .intro-text {
-  padding-top: 60px;
+  padding-top: 20px;
 }
 
 button {
